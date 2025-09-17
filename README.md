@@ -1,4 +1,3 @@
-
 🌍 My Travel Vlog
 
 Welcome to my Travel Vlog Project! ✈️ This is a simple travel blog website created using HTML, CSS (and optionally JavaScript) where I share stories, photos, and videos from my favorite destinations around the world.
